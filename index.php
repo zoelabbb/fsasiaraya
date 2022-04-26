@@ -1,12 +1,34 @@
-﻿<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html lang="en">
 
 <head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PK9X347');
+    </script>
+    <!-- End Google Tag Manager -->
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>FS Asia Raya. - Wood Flooring Center</title>
+    <title>FS Asia Raya Teak Wood Flooring Manufacturer | Flooring Production & Export</title>
+    <meta name="description" content="FS Asia Raya offers high-quality teak wood flooring products for both domestic and export markets. We are dedicated to providing the best flooring products and service to our customers.">
+    <meta name="keywords" content="teak wood flooring, flooring production, wood flooring products, export wood flooring, teak trees, teak flooring, flooring, wood flooring, production, companies, Taiwan, Japan">
+    <meta name="author" content="FS Asia Raya">
 
-    <link rel="shortcut icon" href="./favicon.png">
+    <link rel="shortcut icon" href="img/logo-putih.png">
     <link rel="apple-touch-icon" href="./apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
@@ -14,14 +36,32 @@
     <link href="../../css.css?family=Lora:400,400i,700,700i&amp;subset=cyrillic" rel="stylesheet">
     <link href="../../css-1.css?family=Montserrat:400,700" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" media="screen">
+
+    <!-- Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R597H75VV4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-R597H75VV4');
+    </script>
 </head>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK9X347" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <header class="navbar navbar-responsive">
         <div class="container">
             <a href="#home" class="brand js-target-scroll">
                 FS Asia Raya.
+                <img class="logo-img logo-img-active" src="img/logo-putih.png" alt="FS Asia Raya Logo">
             </a>
 
             <nav class="nav nav-desctop hidden-xs hidden-sm">
@@ -35,8 +75,7 @@
                 </ul>
             </nav>
 
-            <button type="button" class="navbar-toggle collapsed  hidden-md hidden-lg" data-toggle="collapse"
-                data-target="#nav-collapse">
+            <button type="button" class="navbar-toggle collapsed  hidden-md hidden-lg" data-toggle="collapse" data-target="#nav-collapse">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -67,172 +106,68 @@
 
                     <li data-transition="incube-horizontal" data-masterspeed="1000" data-fsmasterspeed="1000">
 
-                        <img src="img/slider/architecture1.JPG" alt="" data-bgposition="center center"
-                            data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="7">
+                        <img src="img/slider/architecture3.jpg" alt="" data-bgposition="center center" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="7">
 
-                        <div class="tp-caption tp-shape tp-shape-mask tp-shapewrapper" data-x="center" data-hoffset=""
-                            data-y="left" data-voffset="" data-basealign="slide" data-width="['14000']"
-                            data-height="['14000']" data-transform_idle="o:1;"
-                            data-transform_in="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;"
-                            data-transform_out="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;" data-start="0"
-                            data-responsive_offset="on" style="background-color:rgba(10,10,10,0.5);"></div>
+                        <div class="tp-caption tp-shape tp-shape-mask tp-shapewrapper" data-x="center" data-hoffset="" data-y="left" data-voffset="" data-basealign="slide" data-width="['14000']" data-height="['14000']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;" data-transform_out="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;" data-start="0" data-responsive_offset="on" style="background-color:rgba(10,10,10,0.5);"></div>
 
-                        <div class="slider-title tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']"
-                            data-y="['middle','middle','middle','middle']" data-textalign="['center']"
-                            data-voffset="['-100']" data-fontsize="['100','70','60','50']"
-                            data-lineheight="['150','95','85']" data-height="none" data-whitespace="nowrap"
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power2.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500"
-                            data-splitin="chars" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05" style="font-family: 'Playfair Display', serif; font-weight: 900;">
+                        <div class="slider-title tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']" data-y="['middle','middle','middle','middle']" data-textalign="['center']" data-voffset="['-100']" data-fontsize="['100','70','60','50']" data-lineheight="['150','95','85']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power2.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="font-family: 'Playfair Display', serif; font-weight: 900;">
                             Wood<br>Flooring<br>Center
                         </div>
 
 
 
-                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']"
-                            data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
-                            data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2500"
-                            data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05">
+                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']" data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">
 
                             <div class="object-meta"><i class="text-white ion-ios-location-outline"></i> tokyo,Japan
                             </div>
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['-300', '-250']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']"
-                            data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
-                            data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000"
-                            data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05">
+                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['-300', '-250']" data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">
                             <!-- <div class="object-meta"><i class="text-white ion-card"></i> 1 350 m2</div> -->
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['300', '250']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']"
-                            data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
-                            data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="3000"
-                            data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05">
+                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['300', '250']" data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="3000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">
                             <!-- <div class="object-meta"><i class="text-white ion-android-expand"></i> $24,5 mio</div> -->
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="left" data-y="bottom" data-hoffset="['40']"
-                            data-voffset="['40']" data-fontsize="['13']" data-basealign="slide"
-                            data-transform_idle="o:1;"
-                            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-start="2000" data-responsive_offset="on"
-                            style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
+                        <div class="tp-caption tp-resizeme" data-x="left" data-y="bottom" data-hoffset="['40']" data-voffset="['40']" data-fontsize="['13']" data-basealign="slide" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-start="2000" data-responsive_offset="on" style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
                             project #1
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="right" data-y="bottom" data-hoffset="['40']"
-                            data-voffset="['40']" data-fontsize="['13']" data-basealign="slide"
-                            data-transform_idle="o:1;"
-                            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-start="2000" data-responsive_offset="on"
-                            style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
+                        <div class="tp-caption tp-resizeme" data-x="right" data-y="bottom" data-hoffset="['40']" data-voffset="['40']" data-fontsize="['13']" data-basealign="slide" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-start="2000" data-responsive_offset="on" style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
 
                         </div>
                     </li>
                     <li data-transition="incube-horizontal" data-masterspeed="1000" data-fsmasterspeed="1000">
 
-                        <img src="img/slider/architecture2.JPG" alt="" data-bgposition="center center"
-                            data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="7">
+                        <img src="img/slider/architecture4.jpg" alt="" data-bgposition="center center" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="7">
 
-                        <div class="tp-caption tp-shape tp-shape-mask tp-shapewrapper" data-x="center" data-hoffset=""
-                            data-y="left" data-voffset="" data-basealign="slide" data-width="['14000']"
-                            data-height="['14000']" data-transform_idle="o:1;"
-                            data-transform_in="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;"
-                            data-transform_out="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;" data-start="0"
-                            data-responsive_offset="on" style="background-color:rgba(10,10,10,0.5);"></div>
+                        <div class="tp-caption tp-shape tp-shape-mask tp-shapewrapper" data-x="center" data-hoffset="" data-y="left" data-voffset="" data-basealign="slide" data-width="['14000']" data-height="['14000']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;" data-transform_out="opacity:0;s:1000;s:1000s:1000;e:Power3.easeInOut;" data-start="0" data-responsive_offset="on" style="background-color:rgba(10,10,10,0.5);"></div>
 
-                        <div class="slider-title tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']"
-                            data-y="['middle','middle','middle','middle']" data-textalign="['center']"
-                            data-voffset="['-100']" data-fontsize="['100','70','60','50']"
-                            data-lineheight="['150','95','85']" data-height="none" data-whitespace="nowrap"
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power2.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500"
-                            data-splitin="chars" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05" style="font-family: 'Playfair Display', serif; font-weight: 900;">
+                        <div class="slider-title tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']" data-y="['middle','middle','middle','middle']" data-textalign="['center']" data-voffset="['-100']" data-fontsize="['100','70','60','50']" data-lineheight="['150','95','85']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power2.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="font-family: 'Playfair Display', serif; font-weight: 900;">
                             Wood<br>Flooring<br>Center
                         </div>
 
 
 
-                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']"
-                            data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
-                            data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2500"
-                            data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05">
+                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['0']" data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">
                             <div class="object-meta"><i class="text-white ion-ios-location-outline"></i> tokyo,Japan
                             </div>
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['-300', '-250']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']"
-                            data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
-                            data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000"
-                            data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05">
+                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['-300', '-250']" data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">
                             <!-- <div class="object-meta"><i class="text-white ion-card"></i></div> -->
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['300','250']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']"
-                            data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
-                            data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
-                            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="3000"
-                            data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                            data-elementdelay="0.05">
+                        <div class="tp-caption tp-resizeme" data-x="['center']" data-hoffset="['300','250']" data-y="['middle','middle','middle','middle']" data-voffset="['210']" data-fontsize="['14']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:50px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="3000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">
                             <!-- <div class="object-meta"><i class="text-white ion-android-expand"></i></div> -->
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="left" data-y="bottom" data-hoffset="['40']"
-                            data-voffset="['40']" data-fontsize="['13']" data-basealign="slide"
-                            data-transform_idle="o:1;"
-                            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-start="2000" data-responsive_offset="on"
-                            style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
+                        <div class="tp-caption tp-resizeme" data-x="left" data-y="bottom" data-hoffset="['40']" data-voffset="['40']" data-fontsize="['13']" data-basealign="slide" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-start="2000" data-responsive_offset="on" style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
                             project #1
                         </div>
 
-                        <div class="tp-caption tp-resizeme" data-x="right" data-y="bottom" data-hoffset="['40']"
-                            data-voffset="['40']" data-fontsize="['13']" data-basealign="slide"
-                            data-transform_idle="o:1;"
-                            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                            data-start="2000" data-responsive_offset="on"
-                            style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
+                        <div class="tp-caption tp-resizeme" data-x="right" data-y="bottom" data-hoffset="['40']" data-voffset="['40']" data-fontsize="['13']" data-basealign="slide" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-transform_out="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;" data-start="2000" data-responsive_offset="on" style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.480em; text-transform: uppercase;">
 
                         </div>
                     </li>
@@ -593,8 +528,7 @@
                     <div class="col-contacts col-base col-sm-6 col-md-4 col-md-offset-1">
                         <!-- <a href="tel:88005553535" class="phone">+62 100 555 35 35</a><br> -->
                         <a href="#">Jl. Raya Gunung Gangsir Randu Pitu, Pasuruan, Jawa Timur Indonesia</a>
-                        <a href="mailto:hi@fsasiaraya.id" class="email"><span class="__cf_email__"
-                                data-cfemail="0960676f6649487b6a61606266276a6664">hi@fsasiaraya.id</span></a>
+                        <a href="mailto:hi@fsasiaraya.id" class="email"><span class="__cf_email__" data-cfemail="0960676f6649487b6a61606266276a6664">hi@fsasiaraya.id</span></a>
                     </div>
                     <div class="col-subscribe col-base col-sm-6 col-md-3">
                         <div class="subscribe-title">Subscribe to our newsletter</div>
@@ -602,8 +536,7 @@
                             <div class="input-group">
                                 <input id="mc-email" type="email" class="input-round form-control" placeholder="Email">
                                 <span class="input-group-btn">
-                                    <button class="btn btn-dark" type="submit"><span
-                                            class="arrow-right"></span></button>
+                                    <button class="btn btn-dark" type="submit"><span class="arrow-right"></span></button>
                                 </span>
                             </div>
                             <label class="mc-label" for="mc-email" id="mc-notification"></label>
@@ -660,8 +593,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close" data-dismiss="modal" aria-label="Close"><span
-                            aria-hidden="true">&times;</span></span>
+                    <span class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></span>
                     <h2 class="modal-title">Thank you</h2>
                     <p class="modal-subtitle">Your message is successfully sent...</p>
                 </div>
@@ -673,8 +605,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close" data-dismiss="modal" aria-label="Close"><span
-                            aria-hidden="true">&times;</span></span>
+                    <span class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></span>
                     <h2 class="modal-title">Sorry</h2>
                     <p class="modal-subtitle"> Something went wrong </p>
                 </div>
